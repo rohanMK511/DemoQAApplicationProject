@@ -23,6 +23,7 @@ public class TC001_LaunchTheApplicationAndClickOnAllTheLinks {
 		//driver.findElement(By.cssSelector("img[src='/images/Toolsqa.jpg']")).click();
 		//Thread.sleep(2000);
 
+		//Updated Comments on 22/06/2024
 		// Step2 : Click on the Selenium Training image on the HomePage.
 		//Store the current window into variable orginalWindow
 		String originalWindow = driver.getWindowHandle();
